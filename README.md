@@ -17,28 +17,10 @@ solving problems, and continuously learning new technologies.
 
 ---
 
-## 🚀 My Projects
-
-### 1. **QuickPOS – Cashier System**
-Small shop POS system with barcode scanning, inventory, and sales tracking.  
-🔗 [View Project](https://github.com/username/QuickPOS)
-
-### 2. **Data Science Case Studies**
-Collection of real-world data analysis and machine learning projects.  
-🔗 [View Project](https://github.com/username/Data-Science-Projects)
-
-### 3. **Mini Python Exercises**
-100+ Python exercises with solutions for beginners and intermediates.  
-🔗 [View Project](https://github.com/username/Python-Mini-Tasks)
-
----
-
 ## 📫 Contact Me
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🌐 Portfolio Website: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: rassiazzi9218@gmail.com  
+- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/ro-zmetov-rasulbek-12312b20a/)  
 
 ---
 
 ⭐ **If you like my work, don’t forget to star the repository!**
-
