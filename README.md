@@ -30,6 +30,16 @@ A time series-based machine learning project to predict air pollution levels (e.
 🔗 [View Project](https://github.com/rasulbekdeveloper907/MY_PORTFOLIO/tree/main/AIR_QUALITY_CHECKER)
 ---
 
+### 2. 🌫️ **Diabetes Prediction**
+**Description:**  
+A Machine Learning project that predicts whether a person has Diabetes based on medical diagnostic data using classification models.
+This project demonstrates data preprocessing, exploratory analysis, feature engineering, model training, and evaluation with a focus on healthcare applications.  
+**Models:** LGBMClassifier, 
+**Tools:** Pandas, Scikit-learn, Matplotlib  
+**Focus:** Feature engineering, missing data handling, model evaluation  
+🔗 [View Project](https://github.com/rasulbekdeveloper907/MY_PORTFOLIO/tree/main/AIR_QUALITY_CHECKER)
+---
+
 ## 🧰 Technologies & Tools
 
 - Python (NumPy, Pandas, Matplotlib, Seaborn)
