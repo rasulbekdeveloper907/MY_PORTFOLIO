@@ -32,12 +32,22 @@ A time series-based machine learning project to predict air pollution levels (e.
 
 ### 2. 🌫️ **Diabetes Prediction**
 **Description:**  
-A Machine Learning project that predicts whether a person has Diabetes based on medical diagnostic data using classification models.
-This project demonstrates data preprocessing, exploratory analysis, feature engineering, model training, and evaluation with a focus on healthcare applications.  
+A Machine Learning project that predicts whether a person has 
+Diabetes based on medical diagnostic data using classification models.
 **Models:** LGBMClassifier, 
 **Tools:** Pandas, Scikit-learn, Matplotlib  
 **Focus:** Feature engineering, missing data handling, model evaluation  
 🔗 [View Project](https://github.com/rasulbekdeveloper907/MY_PORTFOLIO/tree/main/DIABETES_PREDICTION)
+---
+
+### 3. 🌫️ **Water Potability**
+**Description:**  
+A Machine Learning project that predicts whether water is potable (safe for drinking) 
+based on various water quality parameters using classification models.
+**Models:** LGBMClassifier, 
+**Tools:** Pandas, Scikit-learn, Matplotlib  
+**Focus:** Feature engineering, missing data handling, model evaluation  
+🔗 [View Project](https://github.com/rasulbekdeveloper907/MY_PORTFOLIO/tree/main/WATER_POTABILITY)
 ---
 
 ## 🧰 Technologies & Tools
