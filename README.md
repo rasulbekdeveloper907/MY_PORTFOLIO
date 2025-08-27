@@ -37,7 +37,7 @@ This project demonstrates data preprocessing, exploratory analysis, feature engi
 **Models:** LGBMClassifier, 
 **Tools:** Pandas, Scikit-learn, Matplotlib  
 **Focus:** Feature engineering, missing data handling, model evaluation  
-🔗 [View Project](https://github.com/rasulbekdeveloper907/MY_PORTFOLIO/tree/main/AIR_QUALITY_CHECKER)
+🔗 [View Project](https://github.com/rasulbekdeveloper907/MY_PORTFOLIO/tree/main/DIABETES_PREDICTION)
 ---
 
 ## 🧰 Technologies & Tools
